@@ -15,9 +15,9 @@ tasks_by_lesson_slug:
   - file: tasks/eda_5.yaml
   "pydata/regression_exercises":
   - file: tasks/ml_1.yaml
+  "pydata/classification_metrics":
+  - file: tasks/ml_3.yaml
   #"pydata/pca":
   #- file: tasks/pca.yaml
-  #"pydata/classification_metrics":
-  #- file: tasks/ml_3.yaml
   #"pydata/dashboards":
   #- file: tasks/dashboards.yaml
